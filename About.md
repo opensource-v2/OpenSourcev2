@@ -49,18 +49,12 @@ We do this by amplifying the voices of those historically excluded, addressing s
 
 ---
 
-### ▶ ADDITIONAL RESOURCES ◄ 
+### ▶ ADDITIONAL RESOURCES
 
 Read more about Open Source v2:
 
 * [Full list of Principles](https://hackmd.io/@opensourcev2/principles)
 * Research Paper to follow
-
-
-
----
-
-
 
 ---
 
