@@ -1,11 +1,11 @@
-#  <font color="#4E937A">OPEN SOURCE V2: Principles</font>
+#  <font color="#4E937A">OPEN SOURCE V2: Code of Conduct Principles</font>
 
 ## :: Preface :: 
 We look to analyze and depict Open source as a philosophy, understanding the term has taken on a bigger form than “Software”, but also an initiative of Community-orientated development, transparency and collaborative participation. 
 
 We honor the roots of the Open Source Principles by building upon their framework of Principles, but with a deeper lens and acknowledgement of people who are marginalized by Open-Source communities and centers them within the principles and conversations. 
 
-These are living Principles - with the purpose to be regularly re-evaluated and modified to change and grow reflecting upon social and technological systems and the issues marginalized communities face with the Open Source community; 
+As this is a recent project we look towards principles to act as our code of conduct. These are living Principles - with the purpose to be regularly re-evaluated and modified to change and grow reflecting upon social and technological systems and the issues marginalized communities face with the Open Source community; 
 
 *Last Update Winter 2024.*
 
@@ -15,7 +15,6 @@ While noble, the original principle of “No Discrimination Against Persons or G
 > “Open source is almost as biased and discriminatory as other forms of technology and knowledge production as it creates an overrepresented majority within the field.” 
 
 These findings demand the reevaluation of the foundational principles, to instead reshape them with a focus on marginalized communities and equity. Despite their flaws, principles remain essential for fostering accountability and encouraging long-term thinking, serving as a framework to guide open-source development toward fairness, sustainability, and true openness.
-
 
 ---
 
