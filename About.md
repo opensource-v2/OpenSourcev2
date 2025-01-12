@@ -4,9 +4,6 @@ tags: [opensource, opensourcev2]
 description: Vision, Mission and Intention Statement.
 ---
 
----
-title: Open Source v2- About
----
 #  <font color="#4E937A">OPEN SOURCE V2- About</font>
 
 [![hackmd-github-sync-badge](https://hackmd.io/5CjZpqh5RJeDLl89jFTj7Q/badge)](https://hackmd.io/5CjZpqh5RJeDLl89jFTj7Q)
